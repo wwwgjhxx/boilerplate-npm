@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Sarah",
+	"author": "sarah",
 	"engines": {
 		"node": "8.11.2"
 	},
